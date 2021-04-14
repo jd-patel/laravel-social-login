@@ -4,7 +4,7 @@
 
 Simpely download the repository to your local machine.
 
-Create Database laravel-login and import [Database](https://github.com/jd-patel/laravel-social-login/sql/laravel-login.sql).
+Create Database laravel-login and import [Database](https://github.com/jd-patel/laravel-social-login/blob/main/sql/laravel-login.sql).
 
 ## Create your Client ID & Client Secret using below URL.
 - Google - [http://console.developers.google.com](http://console.developers.google.com)
