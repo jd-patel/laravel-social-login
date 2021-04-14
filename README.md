@@ -7,9 +7,9 @@ Simpely download the repository to your local machine.
 Create Database laravel-login and import [Database](https://github.com/jd-patel/laravel-social-login/sql/laravel-login.sql).
 
 ## Create your Client ID & Client Secret using below URL.
-Google - [http://console.developers.google.com/](http://console.developers.google.com/)
-Facebook - [https://developers.facebook.com/apps](https://developers.facebook.com/apps)
-Twitter - [https://developer.twitter.com/en](https://developer.twitter.com/en)
+- Google - [http://console.developers.google.com/](http://console.developers.google.com/)
+- Facebook - [https://developers.facebook.com/apps](https://developers.facebook.com/apps)
+- Twitter - [https://developer.twitter.com/en](https://developer.twitter.com/en)
 
 
 Change the Client_ID, Client_Secret, Redirect URL in the "config/Service.php" file
